@@ -18,7 +18,7 @@
 
 😄 Pronouns: He/him.
 
-📫 How to reach me: send me an email to drbittner99@yahoo.com.
+📫 How to reach me: drbittner99@yahoo.com.
 
 ⚡ Fun fact: I love learning about mechanics and working on cars.
 
