@@ -20,8 +20,6 @@
 
 ⚡ Fun fact: I love learning about mechanics and working on cars.
 
-🎵 Check the playlist I use to listen while working here.
-
 ## Main skills 🧑‍💻
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232F3E?style=flat-square&logo=javascript)
