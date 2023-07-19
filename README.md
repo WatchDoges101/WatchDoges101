@@ -10,8 +10,6 @@
 
 ## About me 👀
 
-🏢 Currently working as an IT Help Desk Technician at Chestnut Ridge Counseling Services INC.
-
 🌱 Growing skills in: Laravel framework, PHP, Three.JS.
 
 💬 Ask me about: Web development and web applications.
