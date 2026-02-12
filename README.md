@@ -10,15 +10,15 @@
 
 ## About me 👀
 
-🌱 Growing skills in: Laravel framework, PHP, Three.JS.
+🌱 Growing skills in: Laravel framework, PHP, Three.JS
 
-💬 Ask me about: Web development and web applications.
+💬 Ask me about: Web development and web applications
 
-😄 Pronouns: He/him.
+😄 Pronouns: He/him
 
-📫 How to reach me: drbittner99@yahoo.com.
+📫 How to reach me: joseph@bitt-tech.com
 
-⚡ Fun fact: I love learning about mechanics and working on cars.
+⚡ Fun fact: I love learning about mechanics and working on cars
 
 ## Main skills 🧑‍💻
 
