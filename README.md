@@ -33,7 +33,7 @@
 
 ## Find me on the internet! 🔍
 
-[![Linkedin Badge]
-[![Twitter Badge]
-[![Linktree Badge]
-[![Instagram Badge]
+![Linkedin Badge]
+![Twitter Badge]
+![Linktree Badge]
+![Instagram Badge]
